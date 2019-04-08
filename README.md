@@ -1,0 +1,6 @@
+### Lý do tại sao mình lại dịch các bài blog sang tiếng việt:
+
+Có những bài viết mình dịch có khi đã có rất nhiều người khác dịch rồi, có khi còn hay hơn bản mình dịch. Nhưng tại sao mình vẫn bỏ thời gian, công sức để dịch lại? Chỉ có 1 lý duy nhất là biến kiến thức của người khác thành kiến thức của mình bằng cách viết ra, bằng cách nghiền ngẫm những gì mình viết. Não bộ của chúng ta sẽ ghi nhớ được lâu hơn khi chúng ta làm điều gì đó đủ nhiều, những gì chúng ta làm sẽ được ghi vào trí nhớ dài hạn, sẽ mất 1 khoảng thời gian rất lâu để bạn có thể quên bớt đi 1 ít. Mình cũng hay đọc bài của người khác dịch, cũng nghiền ngẫm nhưng cũng không nhớ được lâu, những kí ức mờ nhạt thì sẽ bị quên dần theo thời gian, những gì đủ gây ấn tượng thì ít bị lãng quên, mà đã quên rồi thì nên quên luôn =))).
+
+Có những bài viết được mình tổng hợp từ nhiều bài khác nhau, có khi có những bài là mình viết ra trong quá trình làm việc. Bản thân sẽ cố gắng dịch lại, viết lại, sao cho ý nghĩa của câu từ tường minh nhất, dễ hiểu nhất, bởi vì có những câu mà cũng không biết dịch thế nào cho phải =))) :D :D.
+Tay to không lo chết đói :P.
