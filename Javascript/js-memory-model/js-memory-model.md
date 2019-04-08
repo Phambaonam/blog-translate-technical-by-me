@@ -1,4 +1,4 @@
-#JavaScript’s Memory Model
+# JavaScript’s Memory Model
 
 Với 1 progmamer, việc khai báo biến, khởi tạo giá trị cho biến như là công việc hằng ngày ở huyện.
 ```js
