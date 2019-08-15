@@ -130,3 +130,62 @@ Một cách học khác là mà chúng ta có thể học được từ câu chu
 
 Tôi hoàn toàn đồng ý với Doug rằng: khi bạn bắt đầu học mới thứ gì đó, bạn cần có sự lỗ lực để giữ sự kiên trì trong học tập. Hiện giờ, Doug là 1 Android developer, anh ấy có 2 ứng dụng trên play store và là lead của Worldpackers Android app.
 
+> “Tôi đã học lập trình bằng cách làm nhiều dự án website khác nhau khi còn trẻ. Cách tốt nhất để học kỹ năng mới là thực hành thật nhiều. Không quan trọng bạn tạo ra cái gì, miễn là bạn chọn lấy thứ gì đó và bắt đầu” — Feross Aboukhadijeh
+
+[Câu trả lời của Feross](https://www.quora.com/How-did-Feross-Aboukhadijeh-learn-to-program-And-if-he-could-do-it-over-again-what-would-he-do-different-What-language-would-he-start-with/answer/Feross-Aboukhadijeh?) trên Quora. Anh ấy nói cách mà anh ta học lập trình làm thật nhiều side project. Câu truyện của anh ta rất truyền cảm hứng. Bạn để ý tạo lên sự tiến bộ của mình bằng cách làm project này đến project khác. Đây là lời khuyên của anh ta về học lập trình:
+* Làm side project.
+* Mua và đọc những quyển sách lập trình.
+* Làm side project.
+* Tham gia những lớp computer science.
+* Làm side project.
+* Đọc blog lập trình.
+* Làm side project.
+
+Đọc câu chuyện đầy của của anh ta [ở đây](https://www.quora.com/How-did-Feross-Aboukhadijeh-learn-to-program-And-if-he-could-do-it-over-again-what-would-he-do-different-What-language-would-he-start-with/answer/Feross-Aboukhadijeh?).
+
+# Đây là danh sách các side project bạn có thể làm
+
+* Nếu bạn là 1 gamer thì bạn có thể bắt đầu với Tic-Tac-Toe, Sudoku, or Flappy Bird.
+* Nếu bạn yêu thích data, bạn có thể làm với web scraping hoặc làm việc với API data mảng chứng khoán để xây dựng và phân tích biểu đồ chứng khoán.
+* Nếu bạn muốn hiểu rõ hơn về Front-end thì hãy xây dựng cho riêng bạn 1 website/portfolio.
+* Nếu bạn muốn xây dựng 1 sản phẩm hoàn chỉnh, thử làm 1 trang bán sách online hoặc là 1 trang blog.
+
+Đây là [danh sách khác](https://github.com/karan/Projects#networking) giúp bạn lựa chọn project để thực hành. Tôi đồng ý với Feross, không quan trọng bạn tạo ra cái gì, miễn là bạn lựa chọn cái gì đó và bắt đầu. Khi bắt đầu xây dựng, bạn sẽ có vấn đề, bạn sẽ bị stuck, nhưng bạn sẽ học được rất nhiều.
+
+### Tôi biết điều đó khá thách thức, để bạn tiếp tục thực hiện những dự án sau này.
+
+Để giữ ngọn lửa đam mê cho bản thân mình, tôi đã tìm ra 1 dự án thú vị mà bạn có thể làm hằng ngày. Nó có tên là [100 days of code](https://github.com/Kallaway/100-days-of-code). Nó đơn giản thôi, bạn viết nhật ký hằng ngày về tiến trình và suy nghĩ của bạn về 1 dự án bạn dang làm.
+
+Và nó thực sự có hiệu quả, hãy giữ sự quyết liệt đó, hãy luôn tiếp tục làm dự án và luôn theo dõi tiến trình. Hãy để những dự án bạn làm trong 1 repo public trên github, để bạn có thể chia sẻ cho những ng bạn khác của mình. Tăng tính kết nối trên cộng đồng github, mang tính chất chia sẻ và truyền cảm hứng cho những người khác.
+
+Trong lúc tìm kiếm, tôi cũng tìm ra được 1 story khác [How I Coded Everyday for 365 Days](https://hackernoon.com/how-i-coded-everyday-for-365-days-67ebb5fc7ae) của [Emily](https://medium.com/@emilyyu3). Như 1 câu chuyện truyền cảm hứng về tính kỷ luật và sự ham học hỏi lập trình.
+
+Khá là cool khi cô ấy viết về những project đã làm và những gì đã học suốt 1 năm qua. Từ việc build IOS app sự dụng Swift cho đến web development (HTML, CSS, JS, Flask — Python web framework).
+
+# Vài tài nguyên hữu ích cho bạn
+
+### Websites:
+
+* [freeCodeCamp](https://www.freecodecamp.org/) là 1 website tuyệt vời cho việc học web development và JavaScript. Nó hoàn toàn miễn phí.
+* Udemy, CodeSchool,  Khan Academy.
+* Đừng quên các khóa học dạng MOOC trên Udacity, Coursera, edX.
+
+### Follow những người có tầm nhìn trên Twitter.
+
+* Nếu bạn hứng thú Machine Learning, hãy follwow [ Andrew Ng](https://medium.com/@andrewng).
+* Còn với programming thì tôi thích đọc những tweet của [DHH](https://medium.com/@dhh) (Ruby on Rails creator), [Dan Abramov](https://medium.com/@dan_abramov) (Redux Co-author), [Tracy Chou](https://medium.com/@triketora) (former Quora, Pinterest), [Quincy Larson](https://medium.com/@quincylarson) (freeCodeCamp creator), [Preethi Kasireddy](https://medium.com/@preethikasireddy) (Blockchain Engineer), [Dan Bader](https://medium.com/@dbader_org) (runs Real Python), và nhiều người khác nữa.
+
+### Những bài viết chia sẻ hay về quá trình học lập trình trên medium.
+
+* [How To Successfully Teach Yourself How To Code](https://medium.freecodecamp.org/successfully-teaching-yourself-how-to-code-f6aac23db44a) của [Lydia Hallie](https://medium.com/@lydiahallie).
+* [How I went from fashion model to software engineer in 1 year](https://medium.freecodecamp.org/how-i-went-from-fashion-model-to-software-engineer-in-1-year-a7399a40d9e7)  của [Madison Kanna](https://medium.com/@madisonkanna).
+* [BaseCS](https://medium.com/basecs) của [Vaidehi Joshi](https://medium.com/@vaidehijoshi).
+* [Here’s Why Learning How To Code Is So Hard](https://medium.com/the-mission/heres-why-learning-how-to-code-is-so-hard-and-what-to-do-about-it-3d6fda152409) của [Kevin Kononenko](https://medium.com/@kevink).
+* [I Want to Learn Programming but I Don’t Know where to Start] của [Robyn Silber](https://medium.com/@programm.r).
+
+### Vlogs & YouTube channels.
+
+* [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) là chanel của [ Mattias Petter Johansson](https://medium.com/@mpjme) - 1 cựu kỹ sư của Spotify. Nó bắt với javascript nhưng gần đây anh ấy nói về development nói chúng. Tôi thực sự thích cách anh ấy đưa ra ý tưởng của mình và trình vày từng chủ đề.
+* [Mayuko](https://www.youtube.com/user/hellomayuko) là 1 iOS software engineer đang làm việc ở [Patreon](https://medium.com/@Patreon). Cô ấy cũng nói về kỹ thuật và lối sống nói chung.
+* [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A) thì tập trung vào việc tư vấn programming interview và data structure. Đây là chanel của [YK Sugishita](https://medium.com/@ykdojo) - 1 cựu kỹ sư google ở canada.
+* [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw) là kênh Youtube thú vị và thú vị nhất trong danh sách tôi đã kể. [Jonathan Ma](https://medium.com/@joma) là 1 data scientist ở Facebook. Anh ấy nói về cuộc sống của 1 kỹ sư như anh ấy và những lời khuyên về coding interview dựa vào kinh nghiệm thực tập tại 1 nhóm các công ty công nghệ.
